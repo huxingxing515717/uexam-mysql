@@ -18,6 +18,8 @@
  * gitee ：[postgresql 版本](https://gitee.com/alvis-yu/uexam) | [mysql 版本](https://gitee.com/alvis-yu/uexam-mysql)
  * github ：[postgresql 版本](https://github.com/alvis-u/uexam) | [mysql 版本](https://github.com/alvis-u/uexam-mysql)
 
+### 从0开发考试系统实战教学视频
+ * 欢迎前去试听：[https://ke.qq.com/course/1581805?tuin=a0850a43](https://ke.qq.com/course/1581805?tuin=a0850a43)
 
 ### 学之思交流群
  * QQ群：[![加入QQ群](https://img.shields.io/badge/947654489-blue.svg)](https://jq.qq.com/?_wv=1027&k=5WxCaeY)  加群获取数据库脚本【学之思交流②群】 
