@@ -14,20 +14,21 @@
  * 学多多：[http://129.28.206.15:8080/xdd.html](http://129.28.206.15:8080/xdd.html) 
  * 思多多：[http://129.28.206.15:8080/sdd.html](http://129.28.206.15:8080/sdd.html) 
 
-### 所有版本仓库地址
- * gitee ：[postgresql 版本](https://gitee.com/alvis-yu/uexam) | [mysql 版本](https://gitee.com/alvis-yu/uexam-mysql)
- * github ：[postgresql 版本](https://github.com/alvis-u/uexam) | [mysql 版本](https://github.com/alvis-u/uexam-mysql)
+### Mysql 版本代码地址
+ * gitee ：[https://gitee.com/alvis-yu/uexam-mysql](https://gitee.com/alvis-yu/uexam-mysql)
+ * github ：[https://github.com/alvis-u/uexam-mysql](https://github.com/alvis-u/uexam-mysql)
 
-### 从零开发考试系统实战教学视频
- * 欢迎前去试听：[https://ke.qq.com/course/1581805?tuin=a0850a43](https://ke.qq.com/course/1581805?tuin=a0850a43)
+### 腾讯课堂 - 学之思考试系统实战教学视频
+ * [https://alvis.ke.qq.com/?tuin=a0850a43](https://alvis.ke.qq.com/?tuin=a0850a43)
 
 ### 学之思交流群
- * QQ群：[![加入QQ群](https://img.shields.io/badge/947654489-blue.svg)](https://jq.qq.com/?_wv=1027&k=5WxCaeY)  加群获取数据库脚本【学之思交流②群】 
- * 作者QQ：2693073475
+* 交流一群：`530136203`(满)
+* 交流二群：`947654489`
+* 作者QQ：`2693073475`
 
  
 ### 大事件
- * 2020/3 考试系统实战教程发布 试听地址：[https://ke.qq.com/course/1581805?tuin=a0850a43](https://ke.qq.com/course/1581805?tuin=a0850a43)
+ * 2020/3 考试系统实战教程发布 试听地址：[https://alvis.ke.qq.com/?tuin=a0850a43](https://alvis.ke.qq.com/?tuin=a0850a43)
  * 2020/2 项目累计突破2000 star
  * 2020/1 累计超过150万用户使用
  * 2019/12 项目累计突破1000 star
