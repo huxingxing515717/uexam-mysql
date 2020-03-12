@@ -14,14 +14,16 @@
  * 学多多：[http://129.28.206.15:8080/xdd.html](http://129.28.206.15:8080/xdd.html) 
  * 思多多：[http://129.28.206.15:8080/sdd.html](http://129.28.206.15:8080/sdd.html) 
 
-### Mysql 版本代码地址
+### 学之思个版本代码地址
+ * gitee ：[https://gitee.com/alvis-yu/uexam](https://gitee.com/alvis-yu/uexam)
+ * github ：[https://github.com/alvis-u/uexam](https://github.com/alvis-u/uexam)
  * gitee ：[https://gitee.com/alvis-yu/uexam-mysql](https://gitee.com/alvis-yu/uexam-mysql)
  * github ：[https://github.com/alvis-u/uexam-mysql](https://github.com/alvis-u/uexam-mysql)
 
 ### 腾讯课堂 - 学之思考试系统实战教学视频
  * [https://alvis.ke.qq.com/?tuin=a0850a43](https://alvis.ke.qq.com/?tuin=a0850a43)
 
-### 学之思交流群
+### 学之思交流群(加群数据库获取脚本)
 * 交流一群：`530136203`(满)
 * 交流二群：`947654489`
 * 作者QQ：`2693073475`
