@@ -9,10 +9,10 @@
  * 禁止将本项目的代码和资源进行任何形式的出售，产生的一切任何后果责任由侵权者自负
 
 ### 演示地址
- * 官网：[http://129.28.206.15:8080](http://129.28.206.15:8080)
- * 学之思：[http://129.28.206.15:8080/uexam.html](http://129.28.206.15:8080/uexam.html) 
- * 学多多：[http://129.28.206.15:8080/xdd.html](http://129.28.206.15:8080/xdd.html) 
- * 思多多：[http://129.28.206.15:8080/sdd.html](http://129.28.206.15:8080/sdd.html) 
+ * 官网：[http://www.alvisu.com](http://www.alvisu.com)
+ * 学之思：[http://www.alvisu.com/uexam.html](http://www.alvisu.com/uexam.html) 
+ * 学多多：[http://www.alvisu.com/xdd.html](http://www.alvisu.com/xdd.html) 
+ * 思多多：[http://www.alvisu.com/sdd.html](http://www.alvisu.com/sdd.html) 
 
 ### 学之思个版本代码地址
  * gitee ：[https://gitee.com/alvis-yu/uexam](https://gitee.com/alvis-yu/uexam)
@@ -26,6 +26,7 @@
 ### 学之思交流群(加群数据库获取脚本)
 * 交流一群：`530136203`(满)
 * 交流二群：`947654489`
+* 交流三群：`670546875`
 * 作者QQ：`2693073475`
 
  
