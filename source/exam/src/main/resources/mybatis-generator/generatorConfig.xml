@@ -14,8 +14,8 @@
         </commentGenerator>
 
         <!-- jdbc -->
-        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver" connectionURL="jdbc:mysql://101.132.110.182:3306/exam?useSSL=false"
-                        userId="root" password="root123">
+        <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver" connectionURL="jdbc:mysql://192.168.0.69:3306?useSSL=false&amp;useUnicode=true&amp;serverTimezone=UTC&amp;characterEncoding=utf8&amp;zeroDateTimeBehavior=convertToNull&amp;allowPublicKeyRetrieval=true"
+                        userId="root" password="123456">
         </jdbcConnection>
 
         <javaTypeResolver>
@@ -24,23 +24,29 @@
 
         <!-- domain -->
         <javaModelGenerator targetPackage="com.alvis.exam.domain"
-                            targetProject="E:\private\exam-mysql\source\exam\src\main\java\">
+                            targetProject="D:\Alvis\Free\uexam-mysql\source\exam\src\main\java\">
             <property name="enableSubPackages" value="true"/>
             <property name="trimStrings" value="true"/>
         </javaModelGenerator>
 
         <!-- mapper xml -->
         <sqlMapGenerator targetPackage="mapper"
-                         targetProject="E:\private\exam-mysql\source\exam\src\main\resources\">
+                         targetProject="D:\Alvis\Free\uexam-mysql\source\exam\src\main\resources\">
             <property name="enableSubPackages" value="true"/>
         </sqlMapGenerator>
 
         <!-- repository -->
         <javaClientGenerator type="XMLMAPPER" targetPackage="com.alvis.exam.repository"
-                             targetProject="E:\private\exam-mysql\source\exam\src\main\java\">
+                             targetProject="D:\Alvis\Free\uexam-mysql\source\exam\src\main\java\">
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
+
+
+        <table tableName="t_subject" domainObjectName="Subject" enableCountByExample="false"
+               enableUpdateByExample="false"
+               enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
+        </table>
 
     <!--    <table tableName="t_user" domainObjectName="User" enableCountByExample="false"
                enableUpdateByExample="false"
@@ -110,7 +116,7 @@
 -->
 
 
-        <table tableName="t_subject" domainObjectName="Subject" enableCountByExample="false"
+     <!--   <table tableName="t_subject" domainObjectName="Subject" enableCountByExample="false"
                enableUpdateByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
         </table>
@@ -128,7 +134,7 @@
                enableUpdateByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false">
             <columnOverride column="content" jdbcType="VARCHAR" />
-        </table>
+        </table>-->
 
     </context>
 </generatorConfiguration>
