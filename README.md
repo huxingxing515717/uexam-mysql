@@ -14,11 +14,11 @@
  * 学多多：[http://www.alvisu.com/xdd.html](http://www.alvisu.com/xdd.html) 
  * 思多多：[http://www.alvisu.com/sdd.html](http://www.alvisu.com/sdd.html) 
 
-### 学之思个版本代码地址
- * gitee ：[https://gitee.com/alvis-yu/uexam](https://gitee.com/alvis-yu/uexam)
- * github ：[https://github.com/alvis-u/uexam](https://github.com/alvis-u/uexam)
- * gitee ：[https://gitee.com/alvis-yu/uexam-mysql](https://gitee.com/alvis-yu/uexam-mysql)
- * github ：[https://github.com/alvis-u/uexam-mysql](https://github.com/alvis-u/uexam-mysql)
+### 学之思仓库版本地址
+* gitee - postgresql ：[https://gitee.com/alvis-yu/uexam](https://gitee.com/alvis-yu/uexam)
+* github - postgresql ：[https://github.com/alvis-u/uexam](https://github.com/alvis-u/uexam)
+* gitee - mysql ：[https://gitee.com/alvis-yu/uexam-mysql](https://gitee.com/alvis-yu/uexam-mysql)
+* github - mysql ：[https://github.com/alvis-u/uexam-mysql](https://github.com/alvis-u/uexam-mysql)
 
 ### 腾讯课堂 - 学之思考试系统实战教学视频
  * [https://alvis.ke.qq.com/?tuin=a0850a43](https://alvis.ke.qq.com/?tuin=a0850a43)
